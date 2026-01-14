@@ -12,10 +12,11 @@ Notion 링크 : [Notion](https://www.notion.so/Game-Developer-5bed19d7aacf4c1a9c
 
 
 # 프로젝트
-* 2023 **BA**
-* 2023 **Harmony's Gambit**
+* 2025 **(슬라임의)집으로** / MapleWorld, Lua, 퀴즈, 멀티플레이
 * 2025 **Quick Trick!** [GitHub](https://github.com/NeverForgetD/quick-trick) / Unity, Photon Fusion, 캐주얼, 멀티플레이 / 🏆NDM 장려상 (넥슨 임직원 투표 부문)
-* 2026 **(슬라임의)집으로** / MapleWorld, Lua, 퀴즈, 멀티플레이
+* 2023 **Harmony's Gambit**
+* 2023 **BA**
+
 
 
 # 게임잼
