@@ -25,12 +25,12 @@
 
 * 2025 **Live or Dice**  [GitHub](https://github.com/NeverForgetD/2025-UNIJAM-dice) / Unity, 전략, 덱빌딩 / 🏆대상
 * 2024 **패스파인더** [GitHub](https://github.com/NeverForgetD/gamemadang-gamejam-2024-pathfinder) / Unity, 전략, 퍼즐 / [게임정보](https://www.gamemadang.or.kr/Board/gamejam_winners/Detail/16) / [플레이](https://play.unity.com/en/games/1b5dde5d-667a-4ce1-9309-181fd1262f8c/pathfinder) / 🏆우수상
-* 2024 **Pearl Rush**  [GitHub](https://github.com/NeverForgetD/nexon-gamejam-2024-pearlrush) / Unity, 2P, 캐주얼, 아케이드드 / 🏆최우수상
-* 2024 **Zealementals**  [GitHub](https://github.com/NeverForgetD/2025-UNIJAM-dice) / Unity, 로그라이크, 덱빌딩 / 🏆우수상
+* 2024 **Pearl Rush**  [GitHub](https://github.com/NeverForgetD/nexon-gamejam-2024-pearlrush) / Unity, 2P, 캐주얼, 아케이드드 / [YouTube](https://www.youtube.com/watch?v=Lhbnl1ScFN4) 🏆최우수상
+* 2024 **Zealementals**  [GitHub](https://github.com/NeverForgetD/2025-UNIJAM-dice) / Unity, 로그라이크, 덱빌딩 / [YouTube](https://www.youtube.com/watch?v=P1Xp0XS9Hk8&t=280s) / 🏆우수상
 ---
 
 ## 📚 Early & Learning Projects
 
-* **Harmony's Gambit** / Unity, 리듬, 2P, Co-op
-* 2024 **Touch To Start** / Unity, 퍼즐, 캐주얼, 첫 게임잼
+* 2024 **Touch To Start** / Unity, 퍼즐, 캐주얼, 첫 게임잼 / [YouTube](https://www.youtube.com/watch?v=rlUSnIwd1Cs)
+* 2024 **Touch To Start** / Unity, 퍼즐, 캐주얼, 첫 게임잼 / [YouTube](https://www.youtube.com/watch?v=rlUSnIwd1Cs)
 * 2023 **BA** / Unity, 3D, 첫 프로젝트
