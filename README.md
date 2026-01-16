@@ -35,3 +35,7 @@
 * 2024 **Touch To Start** / Unity, 퍼즐, 캐주얼, 첫 게임잼 / [YouTube](https://www.youtube.com/watch?v=rlUSnIwd1Cs)
 * 2023 *Harmony’s Gambit*** / Unity, 리듬, Co-op, 2P / [YouTube](https://www.youtube.com/watch?v=hTo1Fw2R2Rg)
 * 2023 **BA** / Unity, 3D, 첫 프로젝트
+
+## 📬 Contact
+- Email : 0327max@gmail.com
+- GitHub : https://github.com/NeverForgetD
