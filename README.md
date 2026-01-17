@@ -18,7 +18,7 @@
 - Maple Worlds, Lua
 - 매칭 시스템 구현
 - 새로운 엔진 환경에서 구조 이해 경험
-- [Notion](https://glistening-supply-7f2.notion.site/2ea48773e80b80eaa88bf048764ea9e8?pvs=143)
+- [Notion](https://glistening-supply-7f2.notion.site/2ea48773e80b80eaa88bf048764ea9e8?pvs=143) / [플레이영상](https://youtu.be/63wLe_T3wxI)
 
 ---
 
