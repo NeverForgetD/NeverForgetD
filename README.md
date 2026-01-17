@@ -12,6 +12,7 @@
 - 멀티플레이 반응속도 대결 게임
 - NDM 넥슨 임직원 투표 부문 수상
 - 네트워크 지연을 고려한 구조 설계
+- [플레이영상](https://youtu.be/l9BJzEqFgyA)
 - [GitHub](https://github.com/NeverForgetD/quick-trick)
 
 ### 🎮 (슬라임의) 집으로
