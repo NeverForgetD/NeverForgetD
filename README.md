@@ -17,6 +17,13 @@
 - [소스코드](https://github.com/NeverForgetD/gamedev-lab/tree/main/Projects/01_MarchingCubes)
 - [📺 Dev Log 플레이리스트](https://www.youtube.com/playlist?list=PLMOHfwfnIA6YzE3734cBiDpQrf6P25GbO) / [▶ Week 1](https://youtu.be/thkhvTRmsXE) / [▶ Week 2](https://youtu.be/zwa8Fl17JaM) / [▶ Week 3](https://youtu.be/pRhWY_OiF5Y)
 
+### 🐟 Boids 군집 시뮬레이션 & 성능 최적화
+- Unity 6 (URP), C#, Unity
+- Boids 알고리즘 구현
+- 황금 나선 기반 장애물 회피 알고리즘
+- 5단계 점진적 최적화: 알고리즘 개선 → 공간 분할 → 멀티코어 병렬화 → GPU 렌더링
+- [소스코드](https://github.com/NeverForgetD/gamedev-lab/tree/main/Projects/02_Boids)
+
 ### 🎮 Quick Trick!
 - Unity, Photon Fusion
 - 멀티플레이 반응속도 대결 게임
@@ -51,12 +58,9 @@
 
 ## 🚧 In Progress
 
-### ⚙️ RTS-10k-Simulation
-- 대규모 유닛 시뮬레이션 프로젝트 (목표: 10,000개 단위 처리)
-- 데이터 중심 구조 설계 및 성능 최적화 실험
-- Unity 기반 구조 설계 및 렌더링 최적화 진행 중
-- 추후 C++, WinAPI 자체 엔진으로 이식 예정
-
+### ⚙️ gamedev-lab
+- 장르와 분야에 구분 없이 게임 개발 프로그래밍과 관련된 주제를 함께 공부하고 구현하는 장기 개발 스터디입니다.
+- [소드코드](https://github.com/NeverForgetD/gamedev-lab/tree/main)
 ---
 
 ## 📬 Contact
