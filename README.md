@@ -9,6 +9,13 @@
 
 ## 🔥 Featured Projects
 
+### 🐟 Boids 군집 시뮬레이션 & 성능 최적화
+- Unity 6 (URP), C#, Unity
+- Boids 알고리즘 구현
+- 황금 나선 기반 장애물 회피 알고리즘
+- 5단계 점진적 최적화: 알고리즘 개선 → 공간 분할 → 멀티코어 병렬화 → GPU 렌더링
+- [소스코드](https://github.com/NeverForgetD/gamedev-lab/tree/main/Projects/02_Boids)
+  
 ### 🏔️ Marching Cubes Terrain System
 - Unity 6 (URP), C#, Unity
 - Marching Cubes 알고리즘 직접 구현 — cubeIndex 비트마스크, edgeTable/triangleTable, 보간 4종
@@ -17,12 +24,6 @@
 - [소스코드](https://github.com/NeverForgetD/gamedev-lab/tree/main/Projects/01_MarchingCubes)
 - [📺 Dev Log 플레이리스트](https://www.youtube.com/playlist?list=PLMOHfwfnIA6YzE3734cBiDpQrf6P25GbO)
 
-### 🐟 Boids 군집 시뮬레이션 & 성능 최적화
-- Unity 6 (URP), C#, Unity
-- Boids 알고리즘 구현
-- 황금 나선 기반 장애물 회피 알고리즘
-- 5단계 점진적 최적화: 알고리즘 개선 → 공간 분할 → 멀티코어 병렬화 → GPU 렌더링
-- [소스코드](https://github.com/NeverForgetD/gamedev-lab/tree/main/Projects/02_Boids)
 
 ### 🎮 Quick Trick!
 - Unity, Photon Fusion
