@@ -3,7 +3,7 @@
 * 연세세대학교 18학번 수학과 졸업
 * Language : C++ C#
 
-><sub>Unity/C# 기반 클라이언트 프로그래머로, 멀티플레이 게임 개발, 매칭 시스템 구현, Lua 기반 스크립트 개발, 웹/앱 서비스 개발 경험이 있습니다. 새로운 기술을 공식 문서와 영문 자료를 통해 학습하고 실제 프로젝트에 적용해왔으며, 제한된 시간과 리소스 안에서도 팀과 소통하며 결과물을 완성하는 경험을 쌓아왔습니다.</sub>
+><sub>Unity/C# 기반 클라이언트 프로그래머로, 멀티플레이 게임 개발, 매칭 시스템 구현, Lua 기반 스크립트 개발, 웹/앱 서비스 개발 경험이 있습니다. 새로운 기술을 공식 문서와 자료를 통해 학습하고 실제 프로젝트에 적용해왔으며, 제한된 시간과 리소스 안에서도 팀과 소통하며 결과물을 완성하는 경험을 쌓아왔습니다. 최근에는 AI 도구를 활용해 개발 생산성을 높이고 있습니다.</sub>
 
 ---
 
@@ -15,7 +15,7 @@
 - GPU 인스턴싱으로 밀도장(Density Field) 실시간 시각화 (DrawMeshInstancedIndirect)
 - 청크 스트리밍, 오브젝트 풀링, 프러스텀 컬링, 실시간 지형 편집
 - [소스코드](https://github.com/NeverForgetD/gamedev-lab/tree/main/Projects/01_MarchingCubes)
-- [📺 Dev Log 플레이리스트](https://www.youtube.com/playlist?list=PLMOHfwfnIA6YzE3734cBiDpQrf6P25GbO) / [▶ Week 1](https://youtu.be/thkhvTRmsXE) / [▶ Week 2](https://youtu.be/zwa8Fl17JaM) / [▶ Week 3](https://youtu.be/pRhWY_OiF5Y)
+- [📺 Dev Log 플레이리스트](https://www.youtube.com/playlist?list=PLMOHfwfnIA6YzE3734cBiDpQrf6P25GbO)
 
 ### 🐟 Boids 군집 시뮬레이션 & 성능 최적화
 - Unity 6 (URP), C#, Unity
