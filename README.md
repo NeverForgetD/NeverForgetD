@@ -14,15 +14,15 @@
 - Boids 알고리즘 구현
 - 황금 나선 기반 장애물 회피 알고리즘
 - 5단계 점진적 최적화: 알고리즘 개선 → 공간 분할 → 멀티코어 병렬화 → GPU 렌더링
-- ⌨️[Github](https://github.com/NeverForgetD/gamedev-lab/tree/main/Projects/02_Boids)
+- ⌨️ [Github](https://github.com/NeverForgetD/gamedev-lab/tree/main/Projects/02_Boids)
   
 ### 🏔️ Marching Cubes Terrain System
 - Unity 6 (URP), C#, Unity
 - Marching Cubes 알고리즘 직접 구현 — cubeIndex 비트마스크, edgeTable/triangleTable, 보간 4종
 - GPU 인스턴싱으로 밀도장(Density Field) 실시간 시각화 (DrawMeshInstancedIndirect)
 - 청크 스트리밍, 오브젝트 풀링, 프러스텀 컬링, 실시간 지형 편집
-- 📄[Notion](https://glistening-supply-7f2.notion.site/Marching-Cubes-Terrain-System-38748773e80b802a9abed82823afb918?pvs=143)
-- ⌨️[Github](https://github.com/NeverForgetD/gamedev-lab/tree/main/Projects/01_MarchingCubes)
+- 📄 [Notion](https://glistening-supply-7f2.notion.site/Marching-Cubes-Terrain-System-38748773e80b802a9abed82823afb918?pvs=143)
+- ⌨️ [Github](https://github.com/NeverForgetD/gamedev-lab/tree/main/Projects/01_MarchingCubes)
 
 
 ### 🎮 Quick Trick!
@@ -30,15 +30,15 @@
 - 멀티플레이 반응속도 대결 게임
 - NDM 넥슨 임직원 투표 부문 수상
 - 네트워크 지연을 고려한 구조 설계
-- ⌨️[Github](https://github.com/NeverForgetD/quick-trick)
-- 🎞️[플레이영상](https://www.youtube.com/watch?v=l9BJzEqFgyA)
+- ⌨️ [Github](https://github.com/NeverForgetD/quick-trick)
+- 🎞️ [플레이영상](https://www.youtube.com/watch?v=l9BJzEqFgyA)
 
 ### 🎮 (슬라임의) 집으로
 - Maple Worlds, Lua
 - 매칭 시스템 구현
 - 새로운 엔진 환경에서 구조 이해 경험
-- 📄[Notion](https://glistening-supply-7f2.notion.site/2ea48773e80b80eaa88bf048764ea9e8?pvs=143)
-- 🎞️[플레이영상](https://youtu.be/63wLe_T3wxI)
+- 📄 [Notion](https://glistening-supply-7f2.notion.site/2ea48773e80b80eaa88bf048764ea9e8?pvs=143)
+- 🎞️ [플레이영상](https://youtu.be/63wLe_T3wxI)
   
 ---
 
@@ -63,7 +63,7 @@
 
 ### ⚙️ gamedev-lab
 - 장르와 분야에 구분 없이 게임 개발 프로그래밍과 관련된 주제를 함께 공부하고 구현하는 장기 개발 스터디입니다.
-- ⌨️[Github](https://github.com/NeverForgetD/gamedev-lab/tree/main)
+- ⌨️ [Github](https://github.com/NeverForgetD/gamedev-lab/tree/main)
 ---
 
 ## 📬 Contact
