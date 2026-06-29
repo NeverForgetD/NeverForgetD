@@ -31,12 +31,14 @@
 - NDM 넥슨 임직원 투표 부문 수상
 - 네트워크 지연을 고려한 구조 설계
 - ⌨️[Github](https://github.com/NeverForgetD/quick-trick)
+- 🎞️[플레이영상](https://www.youtube.com/watch?v=l9BJzEqFgyA)
 
 ### 🎮 (슬라임의) 집으로
 - Maple Worlds, Lua
 - 매칭 시스템 구현
 - 새로운 엔진 환경에서 구조 이해 경험
-- 📄[Notion](https://glistening-supply-7f2.notion.site/2ea48773e80b80eaa88bf048764ea9e8?pvs=143) / [플레이영상](https://youtu.be/63wLe_T3wxI)
+- 📄[Notion](https://glistening-supply-7f2.notion.site/2ea48773e80b80eaa88bf048764ea9e8?pvs=143)
+- 🎞️[플레이영상](https://youtu.be/63wLe_T3wxI)
   
 ---
 
